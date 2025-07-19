@@ -5,8 +5,8 @@
 
 ## 📥 Download & Run
 1. Go to [Releases](https://github.com/xlelord9292/Grox-Engine/releases)
-2. Download the latest `GroxEngine.zip`
-3. Extract and run `GroxEngine.exe`
+2. Download the latest `grox.exe`
+3. run `grox.exe`
 4. No installation needed - it's completely portable!
 
 ## 🎮 Features
